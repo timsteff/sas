@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2? family= Lobster & display=swap');
+
+
 body {
     /* Сброс стандартых стилей */
     margin: 0;
+    font-family: 'Lobster', cursive;
 }
 
 .nav {
